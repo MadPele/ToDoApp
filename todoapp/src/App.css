@@ -48,3 +48,8 @@ input[type="checkbox"] {
 input[type="checkbox"]:focus {
   outline: 0;
 }
+
+.todo-footer {
+  font-size: 10px;
+  padding-top: 30px;
+}
